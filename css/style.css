@@ -179,4 +179,13 @@ iframe[seamless] {
 	width: 35%;
 }
 
+/*------------------------------------------------------------------------------
+  2.4 - Common CSS - for all lists
+------------------------------------------------------------------------------*/
+.widefat.fixed td {
+	border-bottom: 1px solid #e1e1e1;
+}
 
+.widefat.fixed tbody tr:hover {
+	background-color: #fff9c0;
+}
